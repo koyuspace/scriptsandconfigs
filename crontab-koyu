@@ -1,0 +1,2 @@
+*/10 * * * * cd /home/koyu/maioistkittenbot/ && pleroma-bot --skipChecks
+@reboot docker start tf2-dedicated
