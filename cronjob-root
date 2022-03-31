@@ -1,0 +1,3 @@
+0 2 * * * certbot renew
+0 2 * * FRI runmaintenance
+*/5 * * * * systemctl restart gemproxy
