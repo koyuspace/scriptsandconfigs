@@ -1,0 +1,6 @@
+DefaultRoot /home/koyu/webspace/%u/
+
+<Limit LOGIN>
+  AllowGroup webspace
+  DenyAll
+</Limit>
