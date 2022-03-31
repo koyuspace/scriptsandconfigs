@@ -1,0 +1,8 @@
+# Putting up your own gemini capsule to koyu.space
+
+New: Now offering FTP access
+
+=> /koyu/contact.gmi Contact Leonie and send a git repo containing the files (GMI) and your desired username for your capsule
+
+* The server periodically checks for new content on the git repo and pulls the latest changes
+* Your capsule will be available at gemini://koyu.space/yourchosenname
