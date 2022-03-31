@@ -1,2 +1,2 @@
-# Scripts
-Scripts we use to maintain the services, it's running every Friday at 3am
+# Scripts and configs
+Scripts and configuration files we use for koyu.space
