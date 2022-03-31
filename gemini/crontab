@@ -1,0 +1,9 @@
+* * * * * cd /home/gemini/gemini/SEEK/ && git pull
+* * * * * cd /home/gemini/gemini/bartf1969/ && git pull
+* * * * * cd /home/gemini/gemini/blu256/ && git pull
+* * * * * cd /home/gemini/gemini/cronomaestro/ && git pull
+* * * * * cd /home/gemini/gemini/koyu/ && git pull
+* * * * * cd /home/gemini/gemini/pukima/ && git pull
+* * * * * cd /home/gemini/gemini/the_kitten/ && git pull
+* * * * * cd /home/gemini/gemini/zuz/ && git pull
+* * * * * cd /home/gemini/gemini/nonsensor/ && git pull
