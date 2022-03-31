@@ -3,7 +3,7 @@ systemctl stop mastodon-* --all
 su - postgres -c pg_dumpall > /home/koyu/koyuspace.db
 sudo -i -u mastodon bash << EOF
 cd /home/mastodon/live/
-tootctl media remove
+tootctl media remove --concurrency 100
 EOF
 systemctl start mastodon-* --all
 export RESTIC_PASSWORD=hellno
