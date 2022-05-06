@@ -26,6 +26,7 @@ koyu.space is a global network of talented people delivering internet services t
 => whatiff/ whatiff
 => nonsensor/ nonsensor
 => sealine/ sealine
+=> vydyck/ vydyck
 
 ## Info
 

@@ -15,5 +15,6 @@ the_kitten      https://bitbucket.org/the_kitten/gemini_blog.git
 cronomaestro    https://github.com/cronomaestro/cronostasi
 zuz             https://git.lattuga.net/pongrebio/zuzcapsule
 nonsensor       https://github.com/nonsensor/nonsensor-koyu
+vydyck          https://gitlab.com/ucxdvd/vydyck.git
 
 Repos not listed are either hosted using FTP or are disabled (e.g. against ToS or no files provided yet)
