@@ -16,5 +16,6 @@ cronomaestro    https://github.com/cronomaestro/cronostasi
 zuz             https://git.lattuga.net/pongrebio/zuzcapsule
 nonsensor       https://github.com/nonsensor/nonsensor-koyu
 vydyck          https://gitlab.com/ucxdvd/vydyck.git
+mrael2_obsv     https://github.com/mrael2/observations_gemini
 
 Repos not listed are either hosted using FTP or are disabled (e.g. against ToS or no files provided yet)
