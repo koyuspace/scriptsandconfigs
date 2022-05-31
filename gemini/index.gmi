@@ -23,7 +23,6 @@ koyu.space is a global network of talented people delivering internet services t
 => the_kitten/ the_kitten
 => cronomaestro/ cronomaestro
 => zuz/ zuz
-=> whatiff/ whatiff
 => nonsensor/ nonsensor
 => sealine/ sealine
 => vydyck/ vydyck
