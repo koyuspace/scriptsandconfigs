@@ -1,3 +1,5 @@
 #!/bin/bash
+sudo systemctl stop mastodon-* --all
+sudo -u postgres pg_dumpall > /root/db.out
 export RESTIC_PASSWORD=hellno
-restic -o rclone.args="serve restic --stdio --verbose" -r rclone:onedrive:koyuspace_backups backup /home/mastodon /etc/nginx /var/lib/redis /home/gemini/ /home/koyu/ /usr/bin/runmaintenance /var/lib/tor/ /etc/tor /etc/letsencrypt /opt/ejabberd-22.05 /opt/ejabberd /var/www --verbose
+restic -o rclone.args="serve restic --stdio --verbose" -r rclone:onedrive:koyuspace_backups backup /home/mastodon /etc/nginx /var/lib/redis /root/db.out /home/koyu
