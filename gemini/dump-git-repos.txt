@@ -19,5 +19,6 @@ vydyck          https://gitlab.com/ucxdvd/vydyck.git
 mrael2_obsv     https://github.com/mrael2/observations_gemini
 octt            https://gitlab.com/octtspacc/octt.gmi
 aspect          https://github.com/Aspectsides/gemini
+youshitsune     https://github.com/youshitsune/gemini
 
 Repos not listed are either hosted using FTP or are disabled (e.g. against ToS or no files provided yet)
