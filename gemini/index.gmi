@@ -30,6 +30,7 @@ koyu.space is a global network of talented people delivering internet services t
 => octt/ octt
 => aspect/ aspect
 => youshitsune/ youshitsune
+=> yuiui/ yuiui
 
 ## Info
 
