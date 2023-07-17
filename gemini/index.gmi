@@ -1,7 +1,7 @@
 ```
-             ,\          /--------------------/
-             \\\,_      /  koyu.space Gemini  /
-              \` ,\    / ---------------------/
+             ,\          /--------------/
+             \\\,_      /  koyu.space  /
+              \` ,\    / -------------/
          __,.-" =__)
        ."        )
     ,_/   ,    \/\_
@@ -9,7 +9,7 @@
        `-----` `--`
 ```
 
-# koyu.space (Gemini edition)
+# koyu.space
 
 koyu.space is a global network of talented people delivering internet services to you. All we do is free and open-source software.
 
@@ -19,18 +19,24 @@ koyu.space is a global network of talented people delivering internet services t
 => SEEK/ SEEK
 => pukima/ Pukima
 => blu256/ blu256
-=> bartf1969/ bartf1969
 => the_kitten/ the_kitten
 => cronomaestro/ cronomaestro
 => zuz/ zuz
 => nonsensor/ nonsensor
-=> sealine/ sealine
 => vydyck/ vydyck
 => mrael2_obsv/ mrael2_obsv
 => octt/ octt
 => aspect/ aspect
 => youshitsune/ youshitsune
 => yuiui/ yuiui
+
+## Other services
+
+=> https://web.koyu.space koyu's personal website
+=> https://kopimi.space A Mastodon instance
+=> mumble://koyu.space Mumble
+=> https://litterbox.koyu.space litterbox fediverse client
+=> https://matrix.to/#/#koyu.space:koyu.space Matrix server at koyu.space. Sometimes open for registrations.
 
 ## Info
 
