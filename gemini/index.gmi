@@ -41,5 +41,5 @@ koyu.space is a global network of talented people delivering internet services t
 ## Info
 
 => info.gmi Want to put up your own Gemini capsule?
-=> gemini://gemini.circumlunar.space What is Gemini?
+=> gemini://geminiprotocol.net What is Gemini?
 => https://koyu.space/about What is koyu.space?
