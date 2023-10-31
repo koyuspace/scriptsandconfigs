@@ -1,6 +1,4 @@
 * * * * * cd /home/gemini/gemini/SEEK/ && git pull
-* * * * * cd /home/gemini/gemini/bartf1969/ && git pull
-* * * * * cd /home/gemini/gemini/blu256/ && git pull
 * * * * * cd /home/gemini/gemini/cronomaestro/ && git pull
 * * * * * cd /home/gemini/gemini/koyu/ && git pull
 * * * * * cd /home/gemini/gemini/pukima/ && git pull
@@ -10,6 +8,5 @@
 * * * * * cd /home/gemni/gemini/vydyck/ && git pull
 * * * * * cd /home/gemini/gemini/mrael2_obsv/ && git pull
 * * * * * cd /home/gemini/gemini/octt/ && git pull
-* * * * * cd /home/gemini/gemini/aspect/ && git pull
 * * * * * cd /home/gemini/gemini/youshitsune/ && git pull
 * * * * * cd /home/gemini/gemini/yuiui/ && git pull

@@ -18,7 +18,6 @@ koyu.space is a global network of talented people delivering internet services t
 => koyu/ koyu
 => SEEK/ SEEK
 => pukima/ Pukima
-=> blu256/ blu256
 => the_kitten/ the_kitten
 => cronomaestro/ cronomaestro
 => zuz/ zuz

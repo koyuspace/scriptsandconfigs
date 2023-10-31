@@ -9,8 +9,6 @@ The current list of repos is
 koyu            https://github.com/koyuawsmbrtn/gemini
 SEEK            https://github.com/coraniaid/SEEK-at-Koyu
 Pukimaa         https://github.com/Pukimaa/pukimaa.github.io--gemini-edition-
-blu256          https://github.com/blu256/gemlog
-bartf1969       https://github.com/bartfennema/bartf1969.koyu.space
 the_kitten      https://bitbucket.org/the_kitten/gemini_blog.git
 cronomaestro    https://github.com/cronomaestro/cronostasi
 zuz             https://git.lattuga.net/pongrebio/zuzcapsule
@@ -18,7 +16,6 @@ nonsensor       https://github.com/nonsensor/nonsensor-koyu
 vydyck          https://gitlab.com/ucxdvd/vydyck.git
 mrael2_obsv     https://github.com/mrael2/observations_gemini
 octt            https://gitlab.com/octtspacc/octt.gmi
-aspect          https://github.com/Aspectsides/gemini
 youshitsune     https://github.com/youshitsune/gemini
 yuiui           https://gitlab.com/yuiui/gemini-page
 
