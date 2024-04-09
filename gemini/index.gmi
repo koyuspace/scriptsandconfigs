@@ -33,12 +33,12 @@ koyu.space is a global network of talented people delivering internet services t
 
 => https://web.koyu.space koyu's personal website
 => https://kopimi.space A Mastodon instance
-=> mumble://koyu.space Mumble
 => https://litterbox.koyu.space litterbox fediverse client
-=> https://matrix.to/#/#koyu.space:koyu.space Matrix server at koyu.space. Sometimes open for registrations.
+* XMPP server on koyu.space, use your client to register
+* E-Mail (internal only)
+=> https://vault.koyu.space/ Bitwarden (open, on request)
 
 ## Info
 
 => info.gmi Want to put up your own Gemini capsule?
 => gemini://geminiprotocol.net What is Gemini?
-=> https://koyu.space/about What is koyu.space?
