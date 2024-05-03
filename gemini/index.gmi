@@ -28,6 +28,7 @@ koyu.space is a global network of talented people delivering internet services t
 => aspect/ aspect
 => youshitsune/ youshitsune
 => yuiui/ yuiui
+=> aartaka/public/ aartaka
 
 ## Other services
 
