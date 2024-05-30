@@ -19,5 +19,6 @@ octt            https://gitlab.com/octtspacc/octt.gmi
 youshitsune     https://github.com/youshitsune/gemini
 yuiui           https://gitlab.com/yuiui/gemini-page
 aartaka		https://gitlab.com/aartaka/aartaka.gitlab.io (gemini branch)
+jesselawtonnz	https://codeberg.org/jesselawtonnz/gmi.git
 
 Repos not listed are either hosted using FTP or are disabled (e.g. against ToS or no files provided yet)
